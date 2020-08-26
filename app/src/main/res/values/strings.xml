@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ontologija_Tea_Bizik</string>
+    <string name="REST_URL">https://oziz.ffos.hr/nastava20192020/tbizik_19/ontologija/search</string>
+    <string name="app_label">P3</string>
+</resources>
